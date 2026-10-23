@@ -1,0 +1,10 @@
+.buttons {
+    font-size: 3rem;
+    margin: 10px;
+    border: none;
+    border-radius: 15px;
+    padding: 10px 15px;
+    background-color: hsl(180, 65%, 27%);
+    color: white;
+}
+

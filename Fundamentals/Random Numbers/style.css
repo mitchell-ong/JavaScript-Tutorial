@@ -1,0 +1,15 @@
+body{
+    font-family: "Comic Sans MS", serif;
+    text-align: center;
+}
+
+#myButton{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 15px;
+    background-color: green;
+}
+
+#myLabels{
+    font-size: 3em;
+}
